@@ -4,5 +4,5 @@ This is a test script for SQL injection technique in Portswigger academy
 
 ##############################################################
 
-credis
+credits
 guided by Rana Khalil
